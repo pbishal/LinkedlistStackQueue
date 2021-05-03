@@ -21,7 +21,12 @@ namespace LinkedlistStackQueue
 
             //Displaying stack.
             stackOBJ.DisplayStackElements();
-            Console.ReadLine();
+
+            Console.WriteLine();
+            stackOBJ.Peek();
+            stackOBJ.Pop();
+            stackOBJ.IsEmpty();
+            stackOBJ.DisplayStackElements();
         }
     }
 }
