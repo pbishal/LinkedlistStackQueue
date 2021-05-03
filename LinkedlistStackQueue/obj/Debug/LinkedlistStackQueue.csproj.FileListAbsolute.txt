@@ -1,0 +1,7 @@
+C:\Users\Bishal Pradhan\source\repos\LinkedlistStackQueue\LinkedlistStackQueue\bin\Debug\LinkedlistStackQueue.exe.config
+C:\Users\Bishal Pradhan\source\repos\LinkedlistStackQueue\LinkedlistStackQueue\bin\Debug\LinkedlistStackQueue.exe
+C:\Users\Bishal Pradhan\source\repos\LinkedlistStackQueue\LinkedlistStackQueue\bin\Debug\LinkedlistStackQueue.pdb
+C:\Users\Bishal Pradhan\source\repos\LinkedlistStackQueue\LinkedlistStackQueue\obj\Debug\LinkedlistStackQueue.csprojAssemblyReference.cache
+C:\Users\Bishal Pradhan\source\repos\LinkedlistStackQueue\LinkedlistStackQueue\obj\Debug\LinkedlistStackQueue.csproj.CoreCompileInputs.cache
+C:\Users\Bishal Pradhan\source\repos\LinkedlistStackQueue\LinkedlistStackQueue\obj\Debug\LinkedlistStackQueue.exe
+C:\Users\Bishal Pradhan\source\repos\LinkedlistStackQueue\LinkedlistStackQueue\obj\Debug\LinkedlistStackQueue.pdb
