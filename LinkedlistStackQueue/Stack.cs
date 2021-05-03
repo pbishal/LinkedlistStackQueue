@@ -80,7 +80,6 @@ namespace LinkedlistStackQueue
                 Peek();
                 Pop();
             }
-            //this.top=null;
         }
     }
 }
