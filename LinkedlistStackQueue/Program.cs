@@ -38,6 +38,9 @@ namespace LinkedlistStackQueue
             queueOBJ.Enqueue(12);
             queueOBJ.Display();
 
+            queueOBJ.Dequeue();
+            queueOBJ.Display();
+
             Console.ReadLine();
 
         }
